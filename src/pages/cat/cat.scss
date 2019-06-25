@@ -1,0 +1,68 @@
+page-cat {
+
+    .container{
+       background-color: rgb(178, 176, 199);
+       height: 100vh;
+    }
+
+    .quiz{
+        background-image: url('../../assets/imgs/blkquizz.jpg');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width:300px;
+        height: 240px;
+        margin: auto;
+        margin-top: 10px;
+        border-radius: 2px;
+        box-shadow: 0 0 5px 5px #535361;  
+    }
+      
+      .q-list {
+        display: flex;
+        flex-direction: column;
+        //height: 100vh;
+        width: 100vw;
+        margin-top: 20px;
+        margin-left: 8px;
+      }
+
+
+      .q-list > div {
+          width: 90%;
+        }
+
+
+      .q {
+       margin-top: 10px;
+       margin-left: 10px;
+        padding: 10px 20px;
+       
+        border-radius: 8px;
+        background: #1f1c2c; 
+        background: -webkit-linear-gradient(
+          to right bottom,
+          #928dab,
+          #1f1c2c
+        ); 
+
+        background: linear-gradient(
+          to right bottom,
+          #928dab,
+          #1f1c2c
+        );
+
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+       
+      }
+      
+     
+      .q-title {
+        margin-top: 15px;
+        font-size: 20px;
+        font-weight: bold;
+      }
+     
+    
+      
+}

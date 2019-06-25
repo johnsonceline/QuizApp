@@ -1,0 +1,386 @@
+{
+	"questions": [
+
+		{
+			"flashCardFront": "<img src='http://atlantaparent.com/wp-content/uploads/2017/01/WP-black-history-civil-rights-museum-mural-e1485372232303.jpg' /> " ,
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " Which country is the most populous in Africa ?",
+			"answers": [
+				{"answer": "Nigeria", "correct": true, "selected": false},
+				{"answer": "South Africa", "correct": false, "selected": false},
+                {"answer": "Ethiopia", "correct": false, "selected": false},
+                {"answer": "Cameron", "correct": false, "selected": false},
+                {"answer": "Ghana", "correct": false, "selected": false}
+			]
+        },
+        
+		{
+			"flashCardFront": "<img src=http://atlantaparent.com/wp-content/uploads/2017/01/WP-black-history-civil-rights-museum-mural-e1485372232303.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Which is the longest and largest river in West Africa ?",
+			"answers": [
+				{"answer": "Saint Paul River", "correct": false, "selected": false},
+				{"answer": "Sankarani River", "correct": false, "selected": false},
+				{"answer": "River Niger", "correct": true, "selected": false},
+				{"answer": "River Volta", "correct": false, "selected": false},
+				{"answer": "Cavalia River", "correct": false, "selected": false}
+			]
+        },
+        
+        {
+			"flashCardFront": "<img src=http://atlantaparent.com/wp-content/uploads/2017/01/WP-black-history-civil-rights-museum-mural-e1485372232303.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "  Which is the longest bridge in Africa ?",
+			"answers": [
+				{"answer": "Dona Ana Bridge", "correct": true, "selected": false},
+				{"answer": "6th October Bridge", "correct": false, "selected": false},
+				{"answer": "Katima Mulilo Bridge", "correct": false, "selected": false},
+				{"answer": "Third Mainland Bridge", "correct": false, "selected": false},
+				{"answer": "Mozambique Island Bridge", "correct": false, "selected": false}
+			]
+        },
+        
+
+        {
+			"flashCardFront": "<img src=http://atlantaparent.com/wp-content/uploads/2017/01/WP-black-history-civil-rights-museum-mural-e1485372232303.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " Who is the Nigerian President ?",
+			"answers": [
+				{"answer": "Nana Akufo-Addo", "correct": false, "selected": false},
+				{"answer": "George Weah", "correct": false, "selected": false},
+				{"answer": "Pierre Nkurunziza", "correct": false, "selected": false},
+				{"answer": "Muhammadu Buhari", "correct": true, "selected": false},
+				{"answer": "Paul Biya", "correct": false, "selected": false}
+			]
+        },
+        
+
+		{
+			"flashCardFront": "<img src='http://atlantaparent.com/wp-content/uploads/2017/01/WP-black-history-civil-rights-museum-mural-e1485372232303.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Which is capital of Mali ?",
+			"answers": [
+				{"answer": "Bamako", "correct": true, "selected": false},
+				{"answer": "Algiers", "correct": false, "selected": false},
+				{"answer": "Yaounde", "correct": false, "selected": false},
+				{"answer": "Accra", "correct": false, "selected": false},
+				{"answer": "Abuja", "correct": false, "selected": false}
+			]
+		}
+
+    ],
+    
+    "Religion":[
+
+		{
+			"flashCardFront": "<img src=http://expectation10p.weebly.com/uploads/6/9/1/2/6912406/4653566.gif?188' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " Where was Jesus mostly raised as a child?",
+			"answers": [
+				{"answer": "Nazareth", "correct": true, "selected": false},
+				{"answer": "Jerusalem", "correct": false, "selected": false},
+                {"answer": "Cyprus", "correct": false, "selected": false},
+                {"answer": "Egypt", "correct": false, "selected": false},
+                {"answer": "Babylon", "correct": false, "selected": false}
+			]
+        },
+        
+		{
+			"flashCardFront": "<img src=http://expectation10p.weebly.com/uploads/6/9/1/2/6912406/4653566.gif?188' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Who was promised by the Holy Spirit that he wouldn't die until he saw the Messiah ?",
+			"answers": [
+				{"answer": "Herod", "correct": false, "selected": false},
+				{"answer": "Saul", "correct": false, "selected": false},
+				{"answer": "John", "correct": false, "selected": false},
+				{"answer": "Simeon", "correct": true, "selected": false},
+				{"answer": "Moses", "correct": false, "selected": false}
+			]
+        },
+        
+        {
+			"flashCardFront": "<img src=http://expectation10p.weebly.com/uploads/6/9/1/2/6912406/4653566.gif?188' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " What event brought Joseph and Mary to Jerusalem once a year?",
+			"answers": [
+				{"answer": "Tax collection", "correct": false, "selected": false},
+				{"answer": "The feast of the passover", "correct": true, "selected": false},
+				{"answer": "The census", "correct": false, "selected": false},
+				{"answer": "Rededication of the tabernacle", "correct": false, "selected": false},
+				{"answer": "Vacation", "correct": false, "selected": false}
+			]
+        },
+        
+
+        {
+			"flashCardFront": "<img src=http://expectation10p.weebly.com/uploads/6/9/1/2/6912406/4653566.gif?188' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "How old was Jesus when his parents lost Him in Jerusalem?",
+			"answers": [
+				{"answer": "12", "correct": true, "selected": false},
+				{"answer": "11", "correct": false, "selected": false},
+				{"answer": "13", "correct": false, "selected": false},
+				{"answer": "10", "correct": false, "selected": false},
+				{"answer": "15", "correct": false, "selected": false}
+			]
+        },
+        
+
+		{
+			"flashCardFront": "<img src=http://expectation10p.weebly.com/uploads/6/9/1/2/6912406/4653566.gif?188 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "How long was Jesus in Jerusalem before His parents found Him?",
+			"answers": [
+				{"answer": "3 days", "correct": true, "selected": false},
+				{"answer": "12 hours", "correct": false, "selected": false},
+				{"answer": "3 hours", "correct": false, "selected": false},
+				{"answer": "1 day", "correct": false, "selected": false},
+				{"answer": "2 days", "correct": false, "selected": false}
+			]
+		}
+
+    ],
+
+    "Animals":[
+
+		{
+			"flashCardFront": "<img src=https://cdn.shopify.com/s/files/1/2805/6406/products/20171016S-L_1200x1200.jpg?v=1546479326 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " A group of lions is known as ?",
+			"answers": [
+				{"answer": "A Swarm", "correct": false, "selected": false},
+				{"answer": "A Herd", "correct": false, "selected": false},
+                {"answer": "A Flock", "correct": false, "selected": false},
+                {"answer": "A Pride", "correct": true, "selected": false},
+                {"answer": "A Shrewdness", "correct": false, "selected": false}
+			]
+        },
+        
+		{
+			"flashCardFront": "<img src=https://cdn.shopify.com/s/files/1/2805/6406/products/20171016S-L_1200x1200.jpg?v=1546479326 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Name the slowest animal in the world ?",
+			"answers": [
+				{"answer": "Starfish", "correct": false, "selected": false},
+				{"answer": "Three-toed Sloth", "correct": true, "selected": false},
+				{"answer": "Garden Snail", "correct": false, "selected": false},
+				{"answer": "River Volta", "correct": false, "selected": false},
+				{"answer": "Sea Horse", "correct": false, "selected": false}
+			]
+        },
+        
+        {
+			"flashCardFront": "<img src=https://cdn.shopify.com/s/files/1/2805/6406/products/20171016S-L_1200x1200.jpg?v=1546479326 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " A snail can sleep for how many years ?",
+			"answers": [
+				{"answer": "5 years", "correct": false, "selected": false},
+				{"answer": "3 years", "correct": true, "selected": false},
+				{"answer": "10 years", "correct": false, "selected": false},
+				{"answer": "1 year", "correct": false, "selected": false},
+				{"answer": "2 years", "correct": false, "selected": false}
+			]
+        },
+        
+
+        {
+			"flashCardFront": "<img src=https://cdn.shopify.com/s/files/1/2805/6406/products/20171016S-L_1200x1200.jpg?v=1546479326 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " How many legs does a spider have ?",
+			"answers": [
+				{"answer": "Ten", "correct": false, "selected": false},
+				{"answer": "Eight", "correct": true, "selected": false},
+				{"answer": "Two", "correct": false, "selected": false},
+				{"answer": "Six", "correct": false, "selected": false},
+				{"answer": "Four", "correct": false, "selected": false}
+			]
+        },
+        
+
+		{
+			"flashCardFront": "<img src=https://cdn.shopify.com/s/files/1/2805/6406/products/20171016S-L_1200x1200.jpg?v=1546479326 />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Which animal does not drink water ?",
+			"answers": [
+				{"answer": "Kangaroo rat", "correct": true, "selected": false},
+				{"answer": "Monkey", "correct": false, "selected": false},
+				{"answer": "Rat", "correct": false, "selected": false},
+				{"answer": "Deer", "correct": false, "selected": false},
+				{"answer": "Bird", "correct": false, "selected": false}
+			]
+		}
+
+    ],
+
+
+	"Computers":[
+
+		{
+			"flashCardFront": "<img src='https://www.proprofs.com/quiz-school/topic_images/p1bg8cgds71h5s1md7j0rlko10q33.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " Who invented Java? ?",
+			"answers": [
+				{"answer": "James A Gosling", "correct": true, "selected": false},
+				{"answer": "Albert Einstein", "correct": false, "selected": false},
+                {"answer": "James T Russel", "correct": false, "selected": false},
+                {"answer": "James T Russel", "correct": false, "selected": false},
+                {"answer": "Tim Burners Lee", "correct": false, "selected": false}
+			]
+        },
+        
+		{
+			"flashCardFront": "<img src='https://www.proprofs.com/quiz-school/topic_images/p1bg8cgds71h5s1md7j0rlko10q33.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "ISP stands for: ?",
+			"answers": [
+				{"answer": "International Serrvice Provider", "correct": false, "selected": false},
+				{"answer": "Internet Service Provider", "correct": true, "selected": false},
+				{"answer": "Internet Service Presenter", "correct": false, "selected": false},
+				{"answer": "Intranet Special Provider", "correct": false, "selected": false},
+				{"answer": "None of the Above", "correct": false, "selected": false}
+			]
+        },
+        
+        {
+			"flashCardFront": "<img src='https://www.proprofs.com/quiz-school/topic_images/p1bg8cgds71h5s1md7j0rlko10q33.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "  Which of the following software is used to view web pages ?",
+			"answers": [
+				{"answer": "Internet Browser", "correct": false, "selected": false},
+				{"answer": "Web Browser", "correct": true, "selected": false},
+				{"answer": "Page Browser", "correct": false, "selected": false},
+				{"answer": "Internet Browser", "correct": false, "selected": false},
+				{"answer": "UI Browser", "correct": false, "selected": false}
+			]
+        },
+        
+
+        {
+			"flashCardFront": "<img src='https://www.proprofs.com/quiz-school/topic_images/p1bg8cgds71h5s1md7j0rlko10q33.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Collection of 1024 Bytes:?",
+			"answers": [
+				{"answer": "1MB", "correct": false, "selected": false},
+				{"answer": "1GB", "correct": false, "selected": false},
+				{"answer": "1KB", "correct": true, "selected": false},
+				{"answer": "1TB", "correct": false, "selected": false},
+				{"answer": "10MB", "correct": false, "selected": false}
+			]
+        },
+        
+
+		{
+			"flashCardFront": "<img src='https://www.proprofs.com/quiz-school/topic_images/p1bg8cgds71h5s1md7j0rlko10q33.jpg' />",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Which of the following is a storage device??",
+			"answers": [
+				{"answer": "MotherBoard", "correct": false, "selected": false},
+				{"answer": "Hard Disk", "correct": true, "selected": false},
+				{"answer": "USB Disk", "correct": true, "selected": false},
+				{"answer": "Floppy Disk", "correct": true, "selected": false},
+				{"answer": "All of the above", "correct": true, "selected": false}
+			]
+		}
+
+    ],
+    
+    "Biology":[
+
+		{
+			"flashCardFront": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQmig3EPKdDsTiK1iUl1qDR0YWYYcZdAmot2K_PBXFWpqRSai'/>",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " What does 'DNA' stand for? ?",
+			"answers": [
+				{"answer": "Deoxyribonucleic acid", "correct": true, "selected": false},
+				{"answer": "Deoxynucleic acid", "correct": false, "selected": false},
+                {"answer": "Deribonucleic acid", "correct": false, "selected": false},
+                {"answer": "Deoxyribonuclear acid", "correct": false, "selected": false},
+                {"answer": "Deoxynuclear Acid", "correct": false, "selected": false}
+			]
+        },
+        
+		{
+			"flashCardFront": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQmig3EPKdDsTiK1iUl1qDR0YWYYcZdAmot2K_PBXFWpqRSai'/>",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "Biodiversity is greatest in what biome ?",
+			"answers": [
+				{"answer": "Desert", "correct": false, "selected": false},
+				{"answer": "Tropical rain forest", "correct": true, "selected": false},
+				{"answer": "Temperature Rain Forest", "correct": false, "selected": false},
+				{"answer": "Grassland", "correct": false, "selected": false},
+				{"answer": "Scrub Forest", "correct": false, "selected": false}
+			]
+        },
+        
+        {
+			"flashCardFront": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQmig3EPKdDsTiK1iUl1qDR0YWYYcZdAmot2K_PBXFWpqRSai'/>",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": " Which of these is the primary protein found in hair? ?",
+			"answers": [
+				{"answer": "Collagen", "correct": false, "selected": false},
+				{"answer": "Keratin", "correct": true, "selected": false},
+				{"answer": "Fibrion", "correct": false, "selected": false},
+				{"answer": "Elastin", "correct": false, "selected": false},
+				{"answer": "Amino Acid", "correct": false, "selected": false}
+			]
+        },
+        
+
+        {
+			"flashCardFront": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQmig3EPKdDsTiK1iUl1qDR0YWYYcZdAmot2K_PBXFWpqRSai'/>",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "The number of chromosomes found in an unfertilized human egg cell is: ?",
+			"answers": [
+				{"answer": "23", "correct": true, "selected": false},
+				{"answer": "12.5", "correct": false, "selected": false},
+				{"answer": "46", "correct": false, "selected": false},
+				{"answer": "92", "correct": false, "selected": false},
+				{"answer": "68", "correct": false, "selected": false}
+			]
+        },
+        
+
+		{
+			"flashCardFront": "<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlQmig3EPKdDsTiK1iUl1qDR0YWYYcZdAmot2K_PBXFWpqRSai'/>",
+			"flashCardBack": "",
+			"flashCardFlipped": false,
+			"questionText": "What do plants and animals have in common ?",
+			"answers": [
+				{"answer": "Prokaryotic", "correct": false, "selected": false},
+				{"answer": "Heterotrophic", "correct": false, "selected": false},
+				{"answer": "DNA", "correct": true, "selected": false},
+				{"answer": "Autotrophic", "correct": false, "selected": false},
+				{"answer": "Eukaryotic", "correct": false, "selected": false}
+			]
+		}
+
+    ]
+
+    
+    
+
+}
